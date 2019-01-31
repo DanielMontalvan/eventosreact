@@ -1,0 +1,20 @@
+create-react-app eventosreact
+
+Eventbrite
+montalvandaniel2@gmail.com
+LiderRojo2
+
+
+AppReactD
+NNO46K3Z3EV27YURDV
+Mostrar Clave secreta de cliente y token OAuth
+
+Clave secreta de cliente
+E4X4BJMW3ZGLWKPXQXEY5JGL4APXQ5MBZA7ILUYLVV3ZWDQ2KC
+
+Tu token personal de OAuth
+5VUSFC6LGKGLLJUNE2EJ
+
+Token de OAuth de acceso anónonimo
+6DAUMMSOKET7RPW7IHEN
+
