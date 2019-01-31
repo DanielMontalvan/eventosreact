@@ -18,3 +18,7 @@ Tu token personal de OAuth
 Token de OAuth de acceso anónonimo
 6DAUMMSOKET7RPW7IHEN
 
+
+
+url de los archivos del tutorial 
+https://gist.github.com/juanpablogdl/f621f882e790dbda30d7923b7feb58ed
