@@ -1,5 +1,11 @@
 create-react-app eventosreact
 
+Imrc:Para import react ******************
+cc Para crear la clase de elcomponente*****************
+Sfc otro para crear eventos
+impt prototypes 
+
+
 Eventbrite
 montalvandaniel2@gmail.com
 LiderRojo2
@@ -22,3 +28,5 @@ Token de OAuth de acceso anónonimo
 
 url de los archivos del tutorial 
 https://gist.github.com/juanpablogdl/f621f882e790dbda30d7923b7feb58ed
+
+
